@@ -1,4 +1,4 @@
-Automatic Plant Sprinkler Device
+# Automatic Plant Sprinkler Device
 
 This project is a simulation tool for automatic plant watering using a microcontroller and sensors. Here, I use Arduino and a micro servo as a substitute for a water pump. So, when the micro servo position changes, it indicates whether the water pump is on or off. In this tool, the condition for watering the soil depends on soil moisture and temperature. So, when the soil moisture and temperature meet the preset conditions, this tool will water the soil (the micro servo will change position). Additionally, there are 2 LED lights (1 representing moisture and 1 representing temperature) as indicators that will light up when the conditions of soil moisture or temperature are met. This tool also has an LCD that displays the current conditions. Furthermore, there is a push button for manual watering.
 
